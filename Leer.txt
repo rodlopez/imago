@@ -1,0 +1,24 @@
+Requisitos: 
+A).-Tener Instalado un servidor Apache y Mysql,yo uso xampp.
+B).-Tener ya instalado el SDK de ExtJs 4.0.7 en la carpeta htdocs del servidor.
+en caso contrario descargarlo de:
+http://www.sencha.com/products/extjs/download/ext-js-4.0.7/1234
+
+
+Instalacion de la Aplicacion MVC:
+
+
+1.- Colocar Carpeta en:
+C:\xampp\htdocs
+
+o en La carpeta Publica del servidor que esten usando.
+
+2.-Ejecutar el Script Sql para generar la Base de datos.
+
+El proyecto esta diseñado en base a la arquitectura MVC (Model, View, Controller),y esta enfocado para las personas que se
+estan adentrando en el Mundo de ExtJs, este ejemplo esta desarrollado 
+con la version Extjs 4.0.7
+
+Hiber Tadeo Moreno Tovilla.- Icebergdelphi
+Licenciado en Informatica Administrativa.- Villaflores, Chiapas, Mexico.
+
